@@ -1,0 +1,14 @@
+# Minimal configuration for VAE-GAN style training
+seed: 2025
+training:
+  epochs: 10
+  batch_size: 64
+  lr: 1e-3
+models:
+  vae:
+    latent_dim: 16
+  gan:
+    z_dim: 32
+paths:
+  data_dir: data/processed
+  results_dir: results/vae_gan
