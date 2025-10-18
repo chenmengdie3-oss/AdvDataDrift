@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Data drift mitigation in machine learning for predicting the earthquake performance of corroded bridges"
+message: "If you use this code, please cite the paper."
+authors:
+  - family-names: Chen
+    given-names: Mengdie
+year: 2025
+repository-code: "https://github.com/chenmengdie3-oss/AdvDataDrift_BridgeCorrosion"
